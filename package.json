@@ -1,0 +1,22 @@
+{
+  "name": "mastra-rag-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "mastra dev --dir src"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ai-sdk/openai": "latest",
+    "@mastra/core": "latest",
+    "@mastra/couchbase": "latest",
+    "@mastra/libsql": "^0.0.3",
+    "@mastra/pg": "latest",
+    "@mastra/rag": "latest",
+    "zod": "latest"
+  }
+}
