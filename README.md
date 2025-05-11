@@ -1,3 +1,9 @@
+
+
+
+https://github.com/user-attachments/assets/d44bba76-9151-4e87-a184-83765f07baca
+
+
 # Mastra Multi Agent Workflow / RAG Demo with Couchbase
 
 This project demonstrates a multi-agent workflow using Mastra, combining research and writing capabilities with Couchbase as the vector store. The system processes academic papers, generates embeddings, and creates blog posts based on the research.
